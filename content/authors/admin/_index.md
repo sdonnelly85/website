@@ -22,10 +22,10 @@ social:
   icon_pack: fas
   link: /#contact
 - icon: osf
-  icon_pack: fab
+  icon_pack: ai
   link: https://osf.io/tn5yk/
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com.au/citations?user=Xe-kNQ0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
