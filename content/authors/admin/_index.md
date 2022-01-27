@@ -1,6 +1,4 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
 education:
   courses:
   - course: PhD in Educational Psychology
@@ -23,9 +21,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: osf
+- icon: osf
   icon_pack: fab
   link: https://osf.io/tn5yk/
 - icon: graduation-cap
